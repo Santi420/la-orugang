@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+ul{
+    display: inline-flex;
+}
+
+li{
+    display: inline-block;
+    list-style-type: none;
+margin: 0 20px;
+}
+
+a{
+    color: black;
+}
+
+
+
+header{
+    background-image: linear-gradient(to top red, yellow, green);
+}
+
+.red{
+    background-color: red;
+}
+
+.yell{
+    background-color: yellow;
+}
+
+.green{
+    background-color: green;
+}
+
+body{
+    background-image: linear-gradient(to bottom, red, green, yellow);
+}
+
+.titulos{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+div p{
+color: black;
+
+}
